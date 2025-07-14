@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://takieddinesoualhi.github.io/al-folio/sitemap.xml
+Sitemap: https://takieddinesoualhi.github.io/takieddinesoualhi.github.io/sitemap.xml
