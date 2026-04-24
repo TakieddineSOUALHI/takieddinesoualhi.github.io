@@ -27,7 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My  name is Takieddine Soualhi (Aka Taki). I'm an AI scientisit at Inria Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Takieddine Soualhi (aka Taki). I am a postdoctoral research scientist in AI and Robotics at Inria Lyon, within the Chroma team, collaborating with Dr. Laetitia Matignon, Prof. Olivier Simonin, and Dr. Jacques Saraydaryan. My work focuses on developing social navigation approaches that bridge the gap between multi-agent systems, human awareness, and real-world interaction.
+
+My current research lies at the intersection of reinforcement learning, robotics, and multi-agent coordination, with a particular interest in designing safe, robust algorithms capable of operating in complex and dynamic environments.
+
+Prior to my postdoctoral position, I completed my doctoral studies in Robotics and Computer Science at the University of Burgundy and Franche-Comté, under the supervision of Prof. Yassine Ruichek, Dr. Nathan Crombez, and Prof. Stéphane Galland. My PhD focused on applying reinforcement learning to visuomotor locomotion and navigation for mobile robots.
+
+Before that, I obtained an M.Sc. in Robotics from Sorbonne University and a B.Sc. in Electrical Engineering (EEA) from Toulouse III University.
+
+
+
+
+. I'm a Robotics and AI postdoctoral researcher at Inria Lyon.  Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
