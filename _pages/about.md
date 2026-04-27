@@ -27,9 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Takieddine Soualhi (aka Taki). I am a postdoctoral research scientist in AI and Robotics at Inria Lyon, within the Chroma team, collaborating with Dr. Laetitia Matignon, Prof. Olivier Simonin, and Dr. Jacques Saraydaryan. My work focuses on developing social navigation approaches that bridge the gap between multi-agent systems, human awareness, and real-world interaction.
-
-My current research lies at the intersection of reinforcement learning, robotics, and multi-agent coordination, with a particular interest in designing safe, robust algorithms capable of operating in complex and dynamic environments.
+My name is Takieddine Soualhi (aka Taki). I am a postdoctoral research scientist in AI and Robotics at Inria Lyon, within the Chroma team, collaborating with Dr. Laetitia Matignon, Prof. Olivier Simonin, and Dr. Jacques Saraydaryan. My current research lies at the intersection of reinforcement learning, robotics, and multi-agent coordination, with a particular interest in designing human-centered algorithms capable of operating in complex and dynamic environments.
 
 Prior to my postdoctoral position, I completed my doctoral studies in Robotics and Computer Science at the University of Burgundy and Franche-Comté, under the supervision of Prof. Yassine Ruichek, Dr. Nathan Crombez, and Prof. Stéphane Galland. My PhD focused on applying reinforcement learning to visuomotor locomotion and navigation for mobile robots.
 
