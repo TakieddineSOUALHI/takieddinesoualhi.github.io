@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI researcher @ Inria.
+subtitle: AI & Robotics researcher @ Inria.
 
 profile:
   align: right
