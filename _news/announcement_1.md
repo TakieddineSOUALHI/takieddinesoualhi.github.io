@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-05-24
 inline: true
 related_posts: false
 ---
-
-Test
+I’ll be attending the 1st Workshop on Long-term Deployments in the Wild (LoWi), held at ICRA26 in Vienna.
