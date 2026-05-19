@@ -405,16 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-test",
-          title: 'Test',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-attending-the-1st-workshop-on-long-term-deployments-in-the-wild-lowi-held-at-icra26-in-vienna",
+          title: 'I’ll be attending the 1st Workshop on Long-term Deployments in the Wild (LoWi),...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
