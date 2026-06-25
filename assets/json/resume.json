@@ -1,158 +1,229 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Takieddine Soualhi",
+    "label": "Research Engineer in AI & Robotics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "takieddine.soualhi@inria.fr",
+    "phone": "+33 7 61 59 52 98",
+    "url": "https://takieddinesoualhi.github.io",
+    "summary": "Postdoctoral research engineer in AI and Robotics at Inria Lyon (CHROMA team), working on multi-agent reinforcement learning for human-robot coordination.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Lyon",
+      "countryCode": "FR",
+      "region": "Auvergne-Rhône-Alpes"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "takieddinesoualhi",
+        "url": "https://www.linkedin.com/in/takieddinesoualhi"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "INRIA, CHROMA Team",
+      "position": "Research Engineer",
+      "startDate": "2025-04-01",
+      "endDate": "",
+      "summary": "Introducing novel MARL methods for human-agent coordination.",
+      "highlights": [
+        "Introducing novel MARL methods for human-agent coordination.",
+        "Conducting large scale simulations and deploying trained models for industrial partner (Enchanted Tools).",
+        "Integration of the ROS2 navigation stack into the partner's humanoid robot."
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "CIAD lab",
+      "position": "Research Engineer / Ph.D. candidate",
+      "startDate": "2021-11-01",
+      "endDate": "2025-02-01",
+      "summary": "PhD research on deep reinforcement learning for mobile robot visuomotor control.",
+      "highlights": [
+        "Conduct literature review, identify literature, and set scientific goals.",
+        "Build custom RL training environments and training robots.",
+        "Propose novel RL and MARL algorithms for training single and multi-robot systems on vision-based control tasks.",
+        "Deploy the trained models on real robots.",
+        "Publish results in top-tier robotics journals."
+      ]
+    },
+    {
+      "name": "University of Burgundy and Franche-Comté",
+      "position": "Teaching Assistant",
+      "startDate": "2022-02-01",
+      "endDate": "2024-02-01",
+      "summary": "Teaching courses in computer science and robotics.",
+      "highlights": [
+        "Courses: C Programming, Operating Systems, Web Applications, Robotics.",
+        "Supervision of students semester projects."
+      ]
+    },
+    {
+      "name": "LINEACT lab",
+      "position": "Machine Learning Engineer",
+      "startDate": "2021-03-01",
+      "endDate": "2021-09-01",
+      "summary": "Machine learning for human-robot interaction datasets.",
+      "highlights": [
+        "Preprocessing and cleaning the InHard multimodal human-robot interaction dataset.",
+        "Collecting and building a custom dataset using MoCap data in VR.",
+        "Proposing, implementing, and evaluating deep learning models for both the InHARD dataset and the newly collected dataset.",
+        "Shipping code along with documentation."
+      ]
+    },
+    {
+      "name": "LoopAI",
+      "position": "Research Engineer",
+      "startDate": "2021-04-01",
+      "endDate": "2021-06-01",
+      "summary": "Research on facial expression recognition.",
+      "highlights": [
+        "Literature review on facial expression recognition.",
+        "Evaluation of CNN and GAN-based models on the FER dataset for facial expression recognition."
+      ]
+    },
+    {
+      "name": "Sorbonne University / ISIR lab",
+      "position": "Research Assistant",
+      "startDate": "2019-10-01",
+      "endDate": "2020-02-01",
+      "summary": "Research on autonomous driving simulation and deep learning.",
+      "highlights": [
+        "Building a simulation scene and its corresponding real scene for autonomous driving.",
+        "Fine-tuning deep learning models for scene understanding.",
+        "Implementing control and planning algorithms.",
+        "Shipping code along with demo of the platform."
+      ]
+    },
+    {
+      "name": "AEPI NewVision",
+      "position": "Mentor",
+      "startDate": "2015-11-01",
+      "endDate": "2017-09-01",
+      "summary": "Mentoring students in DIY robotics and electronics projects.",
+      "highlights": [
+        "Building DIY projects, including robots, electronic boards, IoT templates.",
+        "Mentoring students and supervising DIY projects.",
+        "Presenting projects and participating in conferences."
+      ]
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Burgundy and Franche-Comté",
+      "location": "Belfort, France",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
+      "startDate": "2021-11-01",
+      "endDate": "2024-12-01",
+      "score": "",
+      "courses": [
+        "Dissertation: Deep reinforcement learning based visuomotor policies for mobile robots in single and multi-agent configurations.",
+        "Keywords: Reinforcement learning, Deep learning, Robotics, Computer vision, Multi-agent systems.",
+        "Supervisors: Prof. Yassine Ruichek, Prof. Stéphane Galland."
+      ]
+    },
+    {
+      "institution": "Sorbonne University",
+      "location": "Paris, France",
+      "area": "Intelligent Systems and Robotics",
+      "studyType": "M.Sc.",
+      "startDate": "2018-09-01",
+      "endDate": "2021-09-01",
+      "score": "",
+      "courses": [
+        "Keywords: Robotics, Audio processing, Computer vision, Machine learning, HCI."
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Paris Cité University Scholarship for International Talents",
+      "date": "2020-09-01",
+      "awarder": "Paris Cité University",
+      "summary": "Scholarship for International Talents - Fall 2020."
+    },
+    {
+      "title": "BioMed-Innov Scholarship for Innovation in the Biomedical Field",
+      "date": "2019-06-01",
+      "awarder": "BioMed-Innov",
+      "summary": "Scholarship for Innovation in the Biomedical Field - Summer 2019."
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Leveraging motion perceptibility and deep reinforcement learning for visual control of nonholonomic mobile robots",
+      "publisher": "Elsevier Robotics and Autonomous Systems",
+      "releaseDate": "2025-01-01",
+      "summary": "Journal paper on visual control of mobile robots using deep reinforcement learning."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Learning Decentralized multi-robot PointGoal navigation",
+      "publisher": "IEEE Robotics and Automation Letters",
+      "releaseDate": "2025-01-01",
+      "summary": "Journal paper on decentralized multi-robot navigation."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Curiosity driven learning for visual control of nonholonomic mobile robots",
+      "publisher": "IEEE/KROS Ubiquitous Robots",
+      "releaseDate": "2024-01-01",
+      "summary": "Conference paper on curiosity-driven learning for mobile robot visual control."
+    },
+    {
+      "name": "Exploring robot optimal trajectories in Panoramic vision-based control using deep reinforcement learning",
+      "publisher": "IEEE/SICE Symposium on System Integration",
+      "releaseDate": "2025-01-01",
+      "summary": "Conference paper on robot trajectory optimization using panoramic vision."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Reinforcement Learning",
+      "level": "Expert",
+      "icon": "fa-solid fa-brain",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Dynamic programming",
+        "Value based RL",
+        "Policy gradients",
+        "Actor-critic methods",
+        "DQN, PPO, SAC, Rainbow, R2D2, Agent57",
+        "Behaviour cloning, DAgger, RLHF, IRL, GAIL"
+      ]
+    },
+    {
+      "name": "Deep Learning",
+      "level": "Expert",
+      "icon": "fa-solid fa-network-wired",
+      "keywords": [
+        "MLPs, CNNs, RNNs, Attention models, Transformers",
+        "Dropout, L1 and L2, Data augmentation, Batch normalization",
+        "VLMs, LLMs, VLAs (Pi0, SmolVLA, RT-x)"
+      ]
+    },
+    {
+      "name": "Robotics",
+      "level": "Expert",
+      "icon": "fa-solid fa-robot",
+      "keywords": [
+        "State Estimation, SLAM",
+        "Visual servoing, Path planning, Robot modelling",
+        "Gazebo, Pybullet, Habitat-sim, Gibson, Isaac-sim",
+        "ROS1/2",
+        "Turtlebot3, Robotnik Summit-XL"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Arabic",
       "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
@@ -163,38 +234,33 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Research Interests",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Reinforcement Learning",
+        "Multi-Agent Systems",
+        "Robotics",
+        "Computer Vision",
+        "Human-Robot Interaction"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Stéphane Galland",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "stephane.galland@utbm.fr"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Yassine Ruichek",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "yassine.ruichek@utbm.fr"
+    },
+    {
+      "name": "Dr. Nathan Crombez",
+      "icon": "fa-solid fa-envelope",
+      "reference": "nathan.crombez@utbm.fr"
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "projects": []
 }

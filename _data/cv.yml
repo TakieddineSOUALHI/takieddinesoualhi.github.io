@@ -2,96 +2,109 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Takieddine Soualhi
+    - name: Email
+      value: takieddine.soualhi@inria.fr
     - name: Languages
-      value: English, German
+      value: Arabic, French, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computer Science
+      institution: University of Burgundy and Franche-Comté, France
+      year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Dissertation: Deep reinforcement learning based visuomotor policies for mobile robots in single and multi-agent configurations."
+        - "Keywords: Reinforcement learning, Deep learning, Robotics, Computer vision, Multi-agent systems."
+        - "Supervisors: Prof. Yassine Ruichek, Prof. Stéphane Galland."
+    - title: M.Sc. in Intelligent Systems and Robotics
+      institution: Sorbonne University, France
+      year: 2018 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - "Keywords: Robotics, Audio processing, Computer vision, Machine learning, HCI."
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Engineer
+      institution: INRIA, CHROMA Team, Lyon, France
+      year: 2025 - Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Introducing novel MARL methods for human-agent coordination.
+        - Conducting large scale simulations and deploying trained models for industrial partner (Enchanted Tools).
+        - Integration of the ROS2 navigation stack into the partner's humanoid robot.
+    - title: Teaching Assistant
+      institution: University of Burgundy and Franche-Comté, France
+      year: 2022 - 2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - "Courses: C Programming, Operating Systems, Web Applications, Robotics."
+        - Supervision of students semester projects.
+    - title: Research Engineer / Ph.D. candidate
+      institution: CIAD lab, France
+      year: 2021 - 2025
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - Conduct literature review, identify literature, and set scientific goals.
+        - Build custom RL training environments and training robots.
+        - Propose novel RL and MARL algorithms for training single and multi-robot systems on vision-based control tasks.
+        - Deploy the trained models on real robots.
+        - Publish results in top-tier robotics journals.
+    - title: Machine Learning Engineer
+      institution: LINEACT lab, France
+      year: Mar. 2021 - Sep. 2021
+      description:
+        - Preprocessing and cleaning the InHard multimodal human-robot interaction dataset.
+        - Collecting and building a custom dataset using MoCap data in VR.
+        - Proposing, implementing, and evaluating deep learning models for both the InHARD dataset and the newly collected dataset.
+        - Shipping code along with documentation.
+    - title: Research Engineer
+      institution: LoopAI, France
+      year: Apr. 2021 - Jun. 2021
+      description:
+        - Literature review on facial expression recognition.
+        - Evaluation of CNN and GAN-based models on the FER dataset for facial expression recognition.
+    - title: Research Assistant
+      institution: Sorbonne University / ISIR lab, France
+      year: Oct. 2019 - Feb. 2020
+      description:
+        - Building a simulation scene and its corresponding real scene for autonomous driving.
+        - Fine-tuning deep learning models for scene understanding.
+        - Implementing control and planning algorithms.
+        - Shipping code along with demo of the platform.
+    - title: Mentor
+      institution: AEPI NewVision
+      year: Nov. 2015 - Sep. 2017
+      description:
+        - Building DIY projects, including robots, electronic boards, IoT templates.
+        - Mentoring students and supervising DIY projects.
+        - Presenting projects and participating in conferences.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2020
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Paris Cité University Scholarship for International Talents
+    - year: 2019
       items:
-        - Max Planck Medal
+        - BioMed-Innov Scholarship for Innovation in the Biomedical Field
 
-- title: Academic Interests
+- title: Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Reinforcement Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - "RL foundations: Dynamic programming, Value based RL, Policy gradients, Actor-critic methods."
+        - "DRL agents: DQN, PPO, SAC, Rainbow, R2D2, Agent57."
+        - "Imitation learning: Behaviour cloning, DAgger, RLHF, IRL, GAIL."
+    - title: Deep Learning
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - "Foundations: MLPs, CNNs, RNNs, Attention models, Transformers."
+        - "Regularization: Dropout, L1 and L2, Data augmentation, Batch normalization."
+        - "Robot foundation models: VLMs, LLMs, VLAs (Pi0, SmolVLA, RT-x)."
+    - title: Robotics
+      items:
+        - "Classic robotics: State Estimation, SLAM, Visual servoing, Path planning, Robot modelling."
+        - "Robot simulation: Gazebo, Pybullet, Habitat-sim, Gibson, Isaac-sim."
+        - "Robot middleware: ROS1/2."
+        - "Real robots: Turtlebot3, Robotnik Summit-XL."

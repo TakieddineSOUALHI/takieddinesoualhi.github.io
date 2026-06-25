@@ -10,9 +10,12 @@ nav_order: 1
 
 <!-- Bibsearch Feature -->
 
-
 <div class="publications">
 
-{% bibliography %}
+<h2 class="bibliography">Journal Papers</h2>
+{% bibliography --query @article %}
+
+<h2 class="bibliography">Conference Papers</h2>
+{% bibliography --query @inproceedings %}
 
 </div>
