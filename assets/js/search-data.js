@@ -472,7 +472,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%74%61%6B%69%65%64%64%69%6E%65.%73%6F%75%61%6C%68%69@%69%6E%72%69%61.%63%6F%6D", "_blank");
+          window.open("mailto:%74%61%6B%69%65%64%64%69%6E%65.%73%6F%75%61%6C%68%69@%69%6E%72%69%61.%66%72", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -480,6 +480,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://inspirehep.net/authors/1010907", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/takieddinesoualhi", "_blank");
         },
       },{
         id: 'social-rss',
@@ -494,13 +501,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=6rsgbUAAAAJ&hl", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
