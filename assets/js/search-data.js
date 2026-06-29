@@ -473,13 +473,6 @@ ninja.data = [{
           window.open("mailto:%74%61%6B%69%65%64%64%69%6E%65.%73%6F%75%61%6C%68%69@%69%6E%72%69%61.%66%72", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
@@ -499,6 +492,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=6rsgbUAAAAJ&hl", "_blank");
+        },
+      },{
+        id: 'social-substack_url',
+        title: 'Substack_url',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
