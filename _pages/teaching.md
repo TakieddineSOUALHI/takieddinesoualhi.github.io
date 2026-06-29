@@ -7,27 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-## Supervision
+## Students
 
 **Final Year Engineering Internship (6 months)** — Since February 2026
 
 Supervising a 3rd-year engineering student (equiv. M2) on the topic: *Integration of a deep reinforcement learning-based social robot navigation system into ROS Nav2 for transfer to a real robot*, in the context of the SolarNAV project. Main tasks include integrating a learned policy into ROS 2/Nav2, adapting it to the target platform, validating in simulation, and evaluating on a real robot.
-
----
-
-## Courses
-
-**Total: 98.66 hETD** (L3 to M2 level)
-
-| Year | Institution | Level | Course | hETD | Type |
-| ---- | ----------- | ----- | ------ | ---- | ---- |
-| 2025 | INSA Lyon | 3rd year engineer (M2) | IAR – Artificial Intelligence for Robotics | 6 | Lecture |
-| 2024 | UTBM | 1st year engineer (L3) | RN40 – Fundamentals of Algorithms and Programming | 8 | Lab |
-| 2024 | UTBM | 2nd year engineer (M1) | RO50 – Robotics Project and Embedded Systems | 13.33 | Lab |
-| 2024 | UTBM | 2nd year engineer (M1) | RO52 – Robotic Algorithms and Real-Time Systems | 14 | Lab |
-| 2024 | UTBM | 1st year engineer (L3) | WE4B – Advanced Web Technologies | 12 | Tutorial |
-| 2024 | UTBM | 1st year engineer (L3) | SY40 – Operating System Architecture | 28 | Tutorial |
-| 2023 | UTBM | 1st year engineer (L3) | SY40 – Operating System Architecture | 17.33 | Tutorial/Lab |
 
 ---
 
